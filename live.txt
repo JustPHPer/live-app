@@ -1,3 +1,3 @@
-sc的直播源,#genre#
+sc的aa直播源,#genre#
 CCTV5,https://live.0472.org/ysp/cctv5
 CCTV5+,https://live.0472.org/ysp/cctv5p
